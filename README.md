@@ -31,7 +31,7 @@ I specialize in developing database systems and integrating them with web applic
 **Backend & Runtime**
 
 <p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,bun,elysia&theme=dark" alt="Backend" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,bun,https://elysiajs.com/assets/elysia_v.webp&theme=dark" alt="Backend" /></a>
 </p>
 
 **Database**
