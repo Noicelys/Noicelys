@@ -44,8 +44,8 @@ I specialize in developing database systems and integrating them with web applic
 
 <p>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,grafana&theme=dark" alt="DevOps" /></a>
-  <img src="https://img.shields.io/badge/Node--RED-EA580C?style=for-the-badge&logo=nodered&logoColor=white" alt="Node-RED" height="48" />
-  <img src="https://img.shields.io/badge/n8n-F97316?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" height="48" />
+  <img src="https://lwfiles.mycourse.app/67605a7461b32c08f9864eb5-public/5ee808a80731970ca8b3faeb95a2b456.png" alt="Node-RED" height="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" alt="n8n" height="48" />
 </p>
 
 ---
