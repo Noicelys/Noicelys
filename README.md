@@ -14,8 +14,8 @@
 
 ## 🙋‍♂️ About Me
 
-Hi! I'm **Night — Chalakorn Sunthoranan**.
-I'm currently studying for a **Higher Vocational Certificate in Computer Networking and Security** at **Sattahip Technical College**, Chonburi, Thailand.
+Hi! I'm **Nice — Chalakorn Sunthoranan**.
+I'm currently studying for a **High Vocational Certificate in Computer Networking and Security** at **Thai-Austrian Technical College**, Chonburi, Thailand.
 
 I specialize in developing database systems and integrating them with web applications, as well as graphic design. I also have a foundation in IoT development and basic network configuration and design.
 
@@ -31,7 +31,8 @@ I specialize in developing database systems and integrating them with web applic
 **Backend & Runtime**
 
 <p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,bun,elysia&theme=dark" alt="Backend" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,bun&theme=dark" alt="Backend" /></a>
+  <img src="https://elysiajs.com/assets/elysia_v.webp" alt="Elysia" height="48" />
 </p>
 
 **Database**
@@ -44,8 +45,8 @@ I specialize in developing database systems and integrating them with web applic
 
 <p>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,grafana&theme=dark" alt="DevOps" /></a>
-  <img src="https://img.shields.io/badge/Node--RED-EA580C?style=for-the-badge&logo=nodered&logoColor=white" alt="Node-RED" height="48" />
-  <img src="[https://img.shields.io/badge/n8n-F97316?style=for-the-badge&logo=n8n&logoColor=white](https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original)" alt="n8n" height="48" />
+  <img src="https://lwfiles.mycourse.app/67605a7461b32c08f9864eb5-public/5ee808a80731970ca8b3faeb95a2b456.png" alt="Node-RED" height="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" alt="n8n" height="48" />
 </p>
 
 ---
@@ -54,8 +55,8 @@ I specialize in developing database systems and integrating them with web applic
 
 | Year | Institution | Level / Major |
 |:--:|---|---|
-| 2025 – Present | Sattahip Technical College | Higher Vocational Certificate · Computer Networking and Security |
-| 2022 – 2025 | Sattahip Technical College | Vocational Certificate · Computer Technology |
+| 2025 – Present | Thai-Austrian Technical College | High Vocational Certificate · Computer Networking and Security |
+| 2022 – 2025 | Thai-Austrian Technical College | Vocational Certificate · Computer Technology |
 
 
 ---
