@@ -14,8 +14,8 @@
 
 ## 🙋‍♂️ About Me
 
-Hi! I'm **Night — Chalakorn Sunthoranan**.
-I'm currently studying for a **Higher Vocational Certificate in Computer Networking and Security** at **Sattahip Technical College**, Chonburi, Thailand.
+Hi! I'm **Nice — Chalakorn Sunthoranan**.
+I'm currently studying for a **High Vocational Certificate in Computer Networking and Security** at **Thai-Austrian Technical College**, Chonburi, Thailand.
 
 I specialize in developing database systems and integrating them with web applications, as well as graphic design. I also have a foundation in IoT development and basic network configuration and design.
 
@@ -54,8 +54,8 @@ I specialize in developing database systems and integrating them with web applic
 
 | Year | Institution | Level / Major |
 |:--:|---|---|
-| 2025 – Present | Sattahip Technical College | Higher Vocational Certificate · Computer Networking and Security |
-| 2022 – 2025 | Sattahip Technical College | Vocational Certificate · Computer Technology |
+| 2025 – Present | Thai-Austrian Technical College | High Vocational Certificate · Computer Networking and Security |
+| 2022 – 2025 | Thai-Austrian Technical College | Vocational Certificate · Computer Technology |
 
 
 ---
